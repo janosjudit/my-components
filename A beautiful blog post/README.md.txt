@@ -1,0 +1,1 @@
+This is a beautiful blog post with a responsive background.
